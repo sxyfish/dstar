@@ -1,0 +1,2 @@
+# dstar
+AI project1
